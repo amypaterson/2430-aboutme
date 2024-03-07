@@ -33,6 +33,7 @@ h1 {
 }
 
 h2 {
+    text-shadow: 0.02em 0.04em deeppink;
     font-style: italic;
     border-bottom: 0.1em solid #0b5755;
     padding: 0.5em;
@@ -42,6 +43,8 @@ h2 {
 
 section p {
     text-indent: 2.8em;
+    line-height: 1.6em;
+    margin-bottom: 2em;
 }
 
 .project {
